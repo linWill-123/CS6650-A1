@@ -1,0 +1,6 @@
+[submodule "A1_GoServer"]
+	path = A1_GoServer
+	url = ./A1_GoServer
+[submodule "ClientPart1"]
+	path = ClientPart1
+	url = ./ClientPart1
