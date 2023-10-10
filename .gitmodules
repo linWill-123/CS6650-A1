@@ -1,6 +1,19 @@
 [submodule "A1_GoServer"]
 	path = A1_GoServer
-	url = ./A1_GoServer
+	url = https://github.com/linWill-123/A1_GoServer
+
 [submodule "ClientPart1"]
 	path = ClientPart1
-	url = ./ClientPart1
+	url = https://github.com/linWill-123/ClientPart1
+
+[submodule "ClientPart2"]
+	path = ClientPart2
+	url = https://github.com/linWill-123/ClientPart2
+
+[submodule "java-client-generated"]
+	path = java-client-generated
+	url = https://github.com/linWill-123/java-client-generated
+
+[submodule "AlbumServlet"]
+	path = AlbumServlet
+	url = https://github.com/linWill-123/AlbumServlet
